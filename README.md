@@ -24,6 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sreehar32118803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sreehar32118803" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sreehari-s-4115841aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sreehari-s-4115841aa" height="30" width="40" /></a>
 <a href="https://fb.com/sreehari.satheesan.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sreehari.satheesan.5" height="30" width="40" /></a>
 <a href="https://instagram.com/exor_2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="exor_2000" height="30" width="40" /></a>
 </p>
@@ -36,4 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=exor-2000&show_icons=true&locale=en" alt="exor-2000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=exor-2000&" alt="exor-2000" /></p>
-
